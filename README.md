@@ -1,7 +1,5 @@
 <p align="center">
-  <img src=<img width="568" height="778" alt="image" src="https://github.com/user-attachments/assets/4666dc40-f6ae-4f1e-a408-6819ee3c7c16" />
- width="350" alt="To-Do List App Preview">
-</p>
+<img width="350" height="778" alt="To-Do List App Preview" src="https://github.com/user-attachments/assets/c5f9d570-5663-43e5-883b-6a0c4b3bcb34" /></p>
 
 
 
