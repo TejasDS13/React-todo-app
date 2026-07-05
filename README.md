@@ -1,7 +1,7 @@
 <p align="center">
 <img width="350" height="500" alt="To-Do List App Preview" src="https://github.com/user-attachments/assets/c5f9d570-5663-43e5-883b-6a0c4b3bcb34" /></p>
 
-
+[🔗 Click Here to Try the Live Interactive App!](https://TejasDS13.github.io/React-todo-app)
 
 # React Daily Goal Reminder
 
